@@ -1,7 +1,6 @@
 package org.example.two_pointer;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class TripletSumZero {
